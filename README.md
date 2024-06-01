@@ -1,9 +1,9 @@
-# ** KELOMPOK 8 UAS - PAPB (FLUTTER) **
+# KELOMPOK 8 - UAS PAPB PECEL (FLUTTER)
 
-![](https://img.shields.io/badge/Nama%20Kelompok%208%20:-green.svg)<br />
+![](https://img.shields.io/badge/Nama%20Kelompok%20:-purple.svg)<br />
 ![](<https://img.shields.io/badge/1.-Bayu%20Amar%20Ma'ruf%20(22104413007)-blue.svg>)<br />
 ![](<https://img.shields.io/badge/2.-Nugraha%20Yoga%20Herlambang%20(20104410049)-blue.svg>)<br />
-![](<https://img.shields.io/badge/3.-Muhammmad%20Ikhsan%20Mandirri%20(21104410070)-blue.svg>)<br />
+![](<https://img.shields.io/badge/3.-Muhammmad%20Ikhsan%20Mandirri%20(21104410070)-blue.svg>)<br /><br />
 ![](https://img.shields.io/badge/Kelas-TIC.P2K.2021-yellow.svg)<br />
 ![](https://img.shields.io/badge/Dosen-Saiful%20Nur%20Budirman,%20S.Kom.,%20M.Kom-red.svg)
 

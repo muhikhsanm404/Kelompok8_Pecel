@@ -9,7 +9,8 @@
 
 # **Webview**
 
-![](https://github.com/muhikhsanm404/Kelompok8_Pecel/blob/master/screenshot/Webview.JPG)
+![](https://github.com/muhikhsanm404/Kelompok8_Pecel/blob/master/screenshot/Webview.JPG) <br />
+![](https://github.com/muhikhsanm404/Kelompok8_Pecel/blob/master/screenshot/Mobileview.JPG)
 
 # **Getting Started**
 
